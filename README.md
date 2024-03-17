@@ -33,6 +33,7 @@ In addition, the template allows you to change the prompt input. This will allow
 ### How to use the template
 
 `code` folder contains `pinecone_embed.py` that allows you to create vector embeddings for your documents and insert them into a Pinecone Vector Database Index. 
+
 `docker` folder contains the code to run the code both locally or deploy using docker.
 
 There are detailed instruction on how to use each inside the code.
